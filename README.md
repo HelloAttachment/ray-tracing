@@ -1,3 +1,4 @@
 # Ray Tracing
-An electromagnetic ray tracing algorithm that calculates various wireless system parameters.
-
+A ray tracing algorithm implemented using MATLAB that estimates various wireless system parameters.
+## Usage
+Edit the parameters.m and environment.m files to change the simulation settings. Run the main.m file from MATLAB.
